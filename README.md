@@ -1,4 +1,4 @@
-### This project was a requirement to successfully complete the **[CSE 6242: Data and Visual Analytics](https://omscs.gatech.edu/cse-6242-data-visual-analytics)** course as part of the Georgia Tech Computer Science master's program.
+#### This project was a requirement to successfully complete the **[CSE 6242: Data and Visual Analytics](https://omscs.gatech.edu/cse-6242-data-visual-analytics)** course as part of the Georgia Tech Computer Science master's program.
 
 # Time-series analysis of geographic depression scores on Twitter using BERT
 Bert depression detection model based on Twitter data with time series analysis to provide healthcare organizations with a visibility heatmap of regional mental health trends. Our approach not only predicts depression with high accuracy but also offers additional context, such as regional depression
